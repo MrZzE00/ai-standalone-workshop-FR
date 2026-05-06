@@ -106,7 +106,6 @@ The bias demonstration in Module 2 uses culturally-rooted but human-category-fre
 .
 ├── README.md                          # This file
 ├── PERMIS-IA-ADULTE-AXE2.md           # The workshop file (drop this into any chat AI)
-├── LICENSE                            # MIT
 └── docs/
     └── (optional - mockups, demo screens, slide decks)
 ```
@@ -134,7 +133,7 @@ It is also informed by a corpus of **522 open-ended responses on AI** collected 
 ## Author
 
 **Norbert Nadir** - AI Native Consultant, Zenika
-[LinkedIn](https://linkedin.com/) | [Zenika](https://zenika.com/)
+[LinkedIn](https://www.linkedin.com/in/norbert-jeff-nadir/) | [![With love by Zenika](https://img.shields.io/badge/With%20%E2%9D%A4%EF%B8%8F%20by-Zenika-b51432.svg)](https://oss.zenika.com)
 
 ## Contributing
 
