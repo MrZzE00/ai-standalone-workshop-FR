@@ -1,4 +1,4 @@
-# Permis IA Adulte
+# Certification IA Adulte
 
 > French self-contained AI literacy workshop for adults. Drop the markdown file into any chat AI (Claude, ChatGPT, Gemini, Mistral, Copilot) and get a 2h30 guided training. Covers prompting, AI limits, and EU AI Act compliance. Provider-agnostic, no facilitator required.
 
@@ -41,7 +41,7 @@ The workshop adapts to the learner's profile through built-in instructions to th
 ### For learners
 
 1. Open a new conversation in your chat AI of choice
-2. Copy the entire content of `PERMIS-IA-ADULTE-AXE2.md` into the chat
+2. Copy the entire content of `CERTIFICATION-IA-ADULTE-AXE2.md` into the chat
 3. Send it - the AI becomes your trainer
 4. Type `SUIVANT` (or `NEXT`) to progress through modules
 5. At the end, you receive your **AI License** + your **Personal Charter**
@@ -72,7 +72,7 @@ The file contains explicit instructions to the chat AI on how to behave as a tra
 ### Final deliverables
 
 The learner leaves with:
-- **AI License** (Permis IA) - certificate with score and 3 rules: VERIFY / CITE / IMAGINE
+- **AI License** (Certification IA) - certificate with score and 3 rules: VERIFY / CITE / IMAGINE
 - **Personal Charter** - 6 written commitments on transparency, verification, decision boundaries, learning, limits, and sharing
 
 ## Compatibility
