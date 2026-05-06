@@ -106,7 +106,7 @@ The bias demonstration in Module 2 uses culturally-rooted but human-category-fre
 ```
 .
 ├── README.md                          # This file
-├── PERMIS-IA-ADULTE-AXE2.md           # The workshop file (drop this into any chat AI)
+├── CERTIFICATION-IA-ADULTE-AXE2.md    # The workshop file (drop this into any chat AI)
 └── docs/
     └── (optional - mockups, demo screens, slide decks)
 ```
