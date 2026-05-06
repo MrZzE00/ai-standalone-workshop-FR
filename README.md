@@ -6,6 +6,7 @@
 [![Language: French](https://img.shields.io/badge/language-FR-blue.svg)](#)
 [![EU AI Act](https://img.shields.io/badge/EU_AI_Act-Article_4-green.svg)](https://artificialintelligenceact.eu/)
 [![Format](https://img.shields.io/badge/format-single_markdown_file-orange.svg)](#)
+[![With love by Zenika](https://img.shields.io/badge/With%20%E2%9D%A4%EF%B8%8F%20by-Zenika-b51432.svg)](https://oss.zenika.com)
 
 ---
 
