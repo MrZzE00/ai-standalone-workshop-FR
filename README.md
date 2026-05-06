@@ -1,6 +1,6 @@
 # Permis IA Adulte
 
-> Self-contained AI literacy workshop for adults. Drop the markdown file into any chat AI (Claude, ChatGPT, Gemini, Mistral, Copilot) and get a 2h30 guided training. Covers prompting, AI limits, and EU AI Act compliance. Provider-agnostic, no facilitator required.
+> French self-contained AI literacy workshop for adults. Drop the markdown file into any chat AI (Claude, ChatGPT, Gemini, Mistral, Copilot) and get a 2h30 guided training. Covers prompting, AI limits, and EU AI Act compliance. Provider-agnostic, no facilitator required.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language: French](https://img.shields.io/badge/language-FR-blue.svg)](#)
